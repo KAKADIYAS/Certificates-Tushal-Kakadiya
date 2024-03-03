@@ -18,4 +18,3 @@
 
 ## 8 German Driving License Class B
 
-theme: jekyll-theme-dinky
