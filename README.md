@@ -17,3 +17,5 @@
 ## 7 [Data Visualization Using Python, IBM](https://www.credly.com/badges/bf74b97c-3b49-473c-8cec-22c89dfa5e67/linked_in_profile)
 
 ## 8 German Driving License Class B
+
+theme: jekyll-theme-dinky
