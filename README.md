@@ -8,15 +8,17 @@
 
 ## 3 [PowerBi, 365 DataScience](https://learn.365datascience.com/c/375758ee6d/)
 
-## 4 [SQL for Data Science from, Coursera](https://www.coursera.org/account/accomplishments/certificate/3AVF9RGFDJEK)
+## 4 [Calculus for Machine Learning and Data Science, Deeplearning.AI](https://www.coursera.org/account/accomplishments/verify/GWUAWUVFVQMC)
 
-## 5 [Machine Learning with Python, IBM](https://courses.skillsbuild.skillsnetwork.site/certificates/08fcd77b8b924a5b85297d0553238d4c)
+## 5 [SQL for Data Science from, Coursera](https://www.coursera.org/account/accomplishments/certificate/3AVF9RGFDJEK)
 
-## 6 [Data Analysis Using Python, IBM](https://courses.skillsbuild.skillsnetwork.site/certificates/6214027231e94ab8b6f7bf93a5074695)
+## 6 [Machine Learning with Python, IBM](https://courses.skillsbuild.skillsnetwork.site/certificates/08fcd77b8b924a5b85297d0553238d4c)
 
-## 7 [Data Fundamentals badge, IBM](https://www.credly.com/badges/79305316-6a95-4659-90df-281c4eb9c844/linked_in_profile)
+## 7 [Data Analysis Using Python, IBM](https://courses.skillsbuild.skillsnetwork.site/certificates/6214027231e94ab8b6f7bf93a5074695)
 
-## 8 [Data Visualization Using Python, IBM](https://www.credly.com/badges/bf74b97c-3b49-473c-8cec-22c89dfa5e67/linked_in_profile)
+## 8 [Data Fundamentals badge, IBM](https://www.credly.com/badges/79305316-6a95-4659-90df-281c4eb9c844/linked_in_profile)
 
-## 9 German Driving License Class B
+## 9 [Data Visualization Using Python, IBM](https://www.credly.com/badges/bf74b97c-3b49-473c-8cec-22c89dfa5e67/linked_in_profile)
+
+## 10 German Driving License Class B
 
