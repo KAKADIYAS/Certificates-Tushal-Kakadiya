@@ -2,11 +2,6 @@
 
 ## "Thank you for expressing interest in reviewing my achievements. Please click on the following list to view individual certificates.” 📜
 
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tushal-kakadiya" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/tushal-kakadiya?trk=profile-badge">Tushal Kakadiya</a></div>
-              
-
 ## 1 [Python for Data Science badge, IBM](https://www.credly.com/badges/0d987d84-ee89-47e8-951b-e24d923cb5cd/linked_in_profile)
 
 ## 2 [Python libraries for Data Science, Skill UP](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzUyIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDU5NDQxNV8xNjk3OTMwNjYwLnBuZyIsInVzZXJuYW1lIjoiS2FrYWRpeWEgVHVzaGFsIFBvcGF0YmhhaSJ9&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4242%2FPython-Libraries-for-Data-Science%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1164225617897332030&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVzw428c9wK3U2dUkCAC8gS5UlAAAA)
