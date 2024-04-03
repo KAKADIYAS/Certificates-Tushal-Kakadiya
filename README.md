@@ -1,6 +1,6 @@
 ## Hello!, This is Tushal Kakadiya's webpage
 
-## "Thank you for expressing interest in reviewing my achievements. Please click on the following list to view individual certificates.” 📜
+### "Thank you for expressing interest in reviewing my achievements. Please click on the following list to view individual certificates.” 📜
 
 ## 1 [Python for Data Science badge, IBM](https://www.credly.com/badges/0d987d84-ee89-47e8-951b-e24d923cb5cd/linked_in_profile) 🔗
 
@@ -8,7 +8,7 @@
 
 ## 3 [PowerBi, 365 DataScience](https://learn.365datascience.com/c/375758ee6d/) 🔗
 
-## 4 [Calculus for Machine Learning and Data Science, Deeplearning.AI](https://www.coursera.org/account/accomplishments/verify/GWUAWUVFVQMC) 🔗
+## 4 [Calculus for ML and Data Science, Deeplearning.AI](https://www.coursera.org/account/accomplishments/verify/GWUAWUVFVQMC) 🔗
 
 ## 5 [SQL for Data Science from, Coursera](https://www.coursera.org/account/accomplishments/certificate/3AVF9RGFDJEK) 🔗
 
@@ -22,7 +22,7 @@
 
 ## 10 German Driving License Class B
 
-Here is my LinkedIn badge:
+Here is my LinkedIn Profile:
 {{ site.linkedin_badge }}
 
               
