@@ -22,5 +22,7 @@
 
 ## 10 German Driving License Class B
 
+Here is my LinkedIn badge:
+{{ site.linkedin_badge }}
 
               
