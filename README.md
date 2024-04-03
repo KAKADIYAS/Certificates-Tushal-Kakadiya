@@ -1,6 +1,9 @@
 ## Hello!, This is Tushal Kakadiya's webpage
 ## "Thank you for expressing interest in reviewing my achievements. Please click on the following list to view individual certificates.” 👏📜
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tushal-kakadiya-8b35b9139" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/tushal-kakadiya-8b35b9139?trk=profile-badge">Tushal Kakadiya</a></div>
 
 ## 1 [Python for Data Science badge, IBM](https://www.credly.com/badges/0d987d84-ee89-47e8-951b-e24d923cb5cd/linked_in_profile)
 
@@ -22,6 +25,5 @@
 
 ## 10 German Driving License Class B
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tushal-kakadiya-8b35b9139" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/tushal-kakadiya-8b35b9139?trk=profile-badge">Tushal Kakadiya</a></div>
+
               
