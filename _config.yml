@@ -1,3 +1,2 @@
 theme: jekyll-theme-dinky
 
-{% include linkedin_badge.html %}
