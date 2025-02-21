@@ -1,6 +1,6 @@
-## Hello!, This is Tushal Kakadiya's webpage
+  ## Hello!, Good to see you here 
 
-### "Thank you for expressing interest in reviewing my achievements. Please click on the following list to view individual certificates.” 📜
+### "Thank you for expressing interest in reviewing my achievements/Certifications. Please click on the following list to view individual certificates.” 📜
 
 ## 1 [Python for Data Science badge, IBM](https://www.credly.com/badges/0d987d84-ee89-47e8-951b-e24d923cb5cd/linked_in_profile) 🔗
 
