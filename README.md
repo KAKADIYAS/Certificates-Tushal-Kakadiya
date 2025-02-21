@@ -22,7 +22,6 @@
 
 ## 10 German Driving License Class B
 
-Here is my LinkedIn Profile:
-{{ site.linkedin_badge }}
+
 
               
