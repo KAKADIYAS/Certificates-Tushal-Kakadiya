@@ -1,4 +1,4 @@
-  ## Hello!, Good to see you here 
+  ## Hello!, Good to see you here. 😊
 
 ### "Thank you for expressing interest in reviewing my achievements/Certifications. Please click on the following list to view individual certificates.” 📜
 
