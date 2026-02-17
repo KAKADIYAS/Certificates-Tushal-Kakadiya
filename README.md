@@ -1,6 +1,7 @@
-## Hello!, Good to see you here. 😊
+## Hello!, Thank You for Reviewing My Certifications. 😊
 
-### "Thank you for expressing interest in reviewing my achievements/Certifications. Please click on the following list to view individual certificates.” 📜
+### "These certifications represent validated technical competencies and continuous professional development.
+### Please select any item below to view the official credential and verification details.” 📜
 
 ## 1 [Python for Data Science badge, IBM](https://www.credly.com/badges/0d987d84-ee89-47e8-951b-e24d923cb5cd/linked_in_profile) 🔗
 
